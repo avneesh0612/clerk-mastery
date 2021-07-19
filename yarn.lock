@@ -54,6 +54,18 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@clerk/clerk-react@^1.14.0":
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/@clerk/clerk-react/-/clerk-react-1.14.0.tgz#34da6e7f2c30d93af3b6739e58d67673840aa1da"
+  integrity sha512-rgBElF5CytC3Yu6jXAddcAwIV5DhKr3AoPkjmyavakHTxZu7gVKXLVspvnoUeqP6I2G0Ejfri2Rs9CyBbqy55w==
+  dependencies:
+    "@clerk/types" "1.5.0"
+
+"@clerk/types@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@clerk/types/-/types-1.5.0.tgz#aa5ac5a68bdb80fb9e340d29b8ee2af395000bd6"
+  integrity sha512-VhSEUtPrQ07cxwd8BPBCpqEBeqIYUv6wB3gsu+VU8XowyzmMLg5yW5mgaJyCvYfL2Zjqe6eAZPHFeZnq8w1goA==
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.3.tgz#9e42981ef035beb3dd49add17acb96e8ff6f394c"
